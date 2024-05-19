@@ -1,0 +1,93 @@
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.exe
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.deps.json
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.runtimeconfig.json
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.dll
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.pdb
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.AssemblyReference.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AddBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.DeleteBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.Form1.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.MainBibliotecar.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.MainClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ViewBooks.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.GenerateResource.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AssemblyInfoInputs.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AssemblyInfo.cs
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.CoreCompileInputs.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.dll
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\refint\Prototip_Interfata.dll
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.pdb
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.genruntimeconfig.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\ref\Prototip_Interfata.dll
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AddClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.CardForm.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.DeleteClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentalHistory.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentForm.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentForm2.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ReturnBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.UpdateClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ViewClients.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.exe
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.deps.json
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.runtimeconfig.json
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.dll
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.pdb
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.AssemblyReference.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AddBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AddClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.DeleteBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.DeleteClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.Form1.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.MainBibliotecar.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.MainClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentalHistory.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentedBooks.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentForm.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ReturnBook.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.UpdateClient.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ViewBooks.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ViewClients.resources
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.GenerateResource.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AssemblyInfoInputs.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AssemblyInfo.cs
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.CoreCompileInputs.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.dll
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\refint\Prototip_Interfata.dll
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.pdb
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.genruntimeconfig.cache
+C:\FACULTATE\Anul 2\Semestrul 2\Ingineria Sistemelor Soft\Laboratorul_1+2\Prototip_Interfata\Prototip_Interfata\obj\Debug\net6.0-windows\ref\Prototip_Interfata.dll
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.exe
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.deps.json
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.runtimeconfig.json
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.dll
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\bin\Debug\net6.0-windows\Prototip_Interfata.pdb
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AddBook.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AddClient.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.DeleteBook.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.DeleteClient.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.Form1.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.MainBibliotecar.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.MainClient.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentalHistory.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentBook.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentedBooks.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.RentForm.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ReturnBook.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.UpdateClient.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ViewBooks.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.ViewClients.resources
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.GenerateResource.cache
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AssemblyInfoInputs.cache
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.AssemblyInfo.cs
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.csproj.CoreCompileInputs.cache
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.dll
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\refint\Prototip_Interfata.dll
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.pdb
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\Prototip_Interfata.genruntimeconfig.cache
+D:\ISS\Laborator_1_2_3\Prototip\Prototip_Interfata\obj\Debug\net6.0-windows\ref\Prototip_Interfata.dll
